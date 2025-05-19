@@ -18,7 +18,7 @@ It is equipped with a camera-mounted gun and a pan-tilt mechanism, designed to k
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/anti-drone-system.git
+git clone https://github.com/MalikAbdulSalam/Anti-Drone-Detection-and-Elimination-System.git
 cd anti-drone-system
 conda env create -f environment.yaml
 conda activate anti-drone
