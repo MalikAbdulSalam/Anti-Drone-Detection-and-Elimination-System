@@ -1,4 +1,4 @@
-# 🛡️ Anti-Drone Detection and Elimination System
+# 🛡️ Anti-Drone (Detection and Elimination System)
 
 This project is an **automated anti-drone system** that detects, tracks, and neutralizes aerial threats using real-time computer vision and servo motor control.  
 It is equipped with a camera-mounted gun and a pan-tilt mechanism, designed to keep the target centered in the frame and activate the firing system.
@@ -10,7 +10,12 @@ It is equipped with a camera-mounted gun and a pan-tilt mechanism, designed to k
 - Target centering and auto-firing mechanism
 - Fully autonomous operation
 
-## 📁 Project Structure
+## 📸 Screenshot
+
+![System Screenshot](path/to/your/screenshot.png)  
+*Replace `path/to/your/screenshot.png` with the actual path or URL of your screenshot image.*
+
+---
 
 
 ## ⚙️ Setup Instructions
