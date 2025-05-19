@@ -12,7 +12,7 @@ It is equipped with a camera-mounted gun and a pan-tilt mechanism, designed to k
 
 ## 📸 Screenshot
 
-![System Screenshot](Screenshot from 2025-05-19 12-09-03.png.png)  
+![System Screenshot](Screenshot from 2025-05-19 12-09-03.png)  
 *Replace `path/to/your/screenshot.png` with the actual path or URL of your screenshot image.*
 
 ---
